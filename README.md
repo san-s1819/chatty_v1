@@ -17,6 +17,6 @@ Please enter the message and click on Get Response Button to get the reply from 
 
                                                         Conversation example
 
-                                                    ![What is this](chatty1.jpg)
+![What is this](chatty1.jpg)
 
 
