@@ -15,7 +15,8 @@ Actual GUI of chatty
 
 Please enter the message and click on Get Response Button to get the reply from the bot.It is designed to give any nonsense reply to any query. It is a very simple bot.
 
-Conversation example
-![What is this](chatty1.jpg)
+                                                        Conversation example
+
+                                                    ![What is this](chatty1.jpg)
 
 
