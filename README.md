@@ -8,4 +8,4 @@ https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nl
 Working:
 Actual gui of chatty
 
-![What is this](chatty_v1.jpeg)
+![What is this](chatty.jpg)
