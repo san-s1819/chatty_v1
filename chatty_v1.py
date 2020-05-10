@@ -82,7 +82,7 @@ def printop():
 
 
 #Reading in the corpus
-with open('chatbot.txt','r', encoding='utf8', errors ='ignore') as fin:
+with open('context.txt','r', encoding='utf8', errors ='ignore') as fin:
     raw = fin.read().lower()
 
 #TOkenisation
