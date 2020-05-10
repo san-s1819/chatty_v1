@@ -4,8 +4,9 @@ A simple chatbot using nltk.
 First of all, thanks to Parul pandey for letting me use her code.
 All the theoritical concepts are explained beautifully in this medium article written by Parul Pandey.
 https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
-This bot can only answer preliminary questions. It might not give sophisticated replies. It can also nonsensical replies.
-This bot is designed on the topic chatbots. Change the content of content.py file to make the chatbot converse about different topic.
+
+This bot can only answer preliminary questions. It might not give sophisticated replies. It can also give nonsensical replies.
+This bot is designed on the topic chatbots. Change the content of content.py file to make the chatbot converse about a different topic.
 
 Working:
 Actual GUI of chatty
